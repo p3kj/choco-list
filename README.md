@@ -8,5 +8,5 @@ My choco package list
 
 **Basic setup**
 ```
-choco install -y 7zip Firefox google-backup-and-syncGoogleChrome handbrake notepad2 qbittorrent totalcommander vlc XnView
+choco install -y 7zip Firefox google-backup-and-sync GoogleChrome handbrake notepad2 qbittorrent totalcommander vlc XnView
 ```
